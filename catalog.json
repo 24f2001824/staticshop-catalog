@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "email": "24f2001824@ds.study.iitm.ac.in",
+    "version": "b7c4a31d"
+  },
+  "products": [
+    {"id":"prod-b7c4a31d-001","name":"Book A","category":"books","price":500.50,"stock":10,"rating":4.1},
+    {"id":"prod-b7c4a31d-002","name":"Book B","category":"books","price":700.75,"stock":12,"rating":4.5},
+    {"id":"prod-b7c4a31d-003","name":"Book C","category":"books","price":900.10,"stock":20,"rating":4.0},
+    {"id":"prod-b7c4a31d-004","name":"Book D","category":"books","price":1000.25,"stock":30,"rating":3.9},
+    {"id":"prod-b7c4a31d-005","name":"Phone","category":"electronics","price":15000.00,"stock":5,"rating":4.2},
+    {"id":"prod-b7c4a31d-006","name":"Laptop","category":"electronics","price":55000.00,"stock":3,"rating":4.6},
+    {"id":"prod-b7c4a31d-007","name":"Headphones","category":"electronics","price":2000.00,"stock":15,"rating":4.3},
+    {"id":"prod-b7c4a31d-008","name":"Mouse","category":"electronics","price":500.00,"stock":20,"rating":4.0},
+    {"id":"prod-b7c4a31d-009","name":"T-shirt","category":"clothing","price":700.00,"stock":25,"rating":3.8},
+    {"id":"prod-b7c4a31d-010","name":"Jeans","category":"clothing","price":1500.00,"stock":10,"rating":4.1},
+    {"id":"prod-b7c4a31d-011","name":"Jacket","category":"clothing","price":2500.00,"stock":5,"rating":4.4},
+    {"id":"prod-b7c4a31d-012","name":"Shoes","category":"clothing","price":3000.00,"stock":8,"rating":4.0},
+    {"id":"prod-b7c4a31d-013","name":"Chair","category":"furniture","price":3500.00,"stock":6,"rating":4.2},
+    {"id":"prod-b7c4a31d-014","name":"Table","category":"furniture","price":7000.00,"stock":4,"rating":4.5},
+    {"id":"prod-b7c4a31d-015","name":"Lamp","category":"furniture","price":1200.00,"stock":10,"rating":3.9},
+    {"id":"prod-b7c4a31d-016","name":"Sofa","category":"furniture","price":15000.00,"stock":2,"rating":4.6}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 4,
+      "inventoryValue": 71330.06
+    }
+  }
+}
