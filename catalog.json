@@ -4,25 +4,25 @@
     "version": "b7c4a31d"
   },
   "products": [
-    {"id":"prod-b7c4a31d-001","name":"The Great Gatsby","category":"books","price":500.50,"stock":10,"rating":4.1},
-    {"id":"prod-b7c4a31d-002","name":"1984","category":"books","price":700.75,"stock":12,"rating":4.5},
-    {"id":"prod-b7c4a31d-003","name":"To Kill a Mockingbird","category":"books","price":900.10,"stock":20,"rating":4.0},
-    {"id":"prod-b7c4a31d-004","name":"Pride and Prejudice","category":"books","price":1000.25,"stock":30,"rating":3.9},
+    {"id":1,"name":"Book A","category":"books","price":299.99,"stock":20,"rating":4.2},
+    {"id":2,"name":"Book B","category":"books","price":499.50,"stock":15,"rating":4.0},
+    {"id":3,"name":"Book C","category":"books","price":799.75,"stock":10,"rating":4.5},
+    {"id":4,"name":"Book D","category":"books","price":999.99,"stock":5,"rating":4.1},
 
-    {"id":"prod-b7c4a31d-005","name":"iPhone","category":"electronics","price":15000.00,"stock":5,"rating":4.2},
-    {"id":"prod-b7c4a31d-006","name":"MacBook","category":"electronics","price":55000.00,"stock":3,"rating":4.6},
-    {"id":"prod-b7c4a31d-007","name":"Headphones","category":"electronics","price":2000.00,"stock":15,"rating":4.3},
-    {"id":"prod-b7c4a31d-008","name":"Wireless Mouse","category":"electronics","price":500.00,"stock":20,"rating":4.0},
+    {"id":5,"name":"Laptop","category":"electronics","price":45000,"stock":3,"rating":4.6},
+    {"id":6,"name":"Headphones","category":"electronics","price":2500,"stock":12,"rating":4.3},
+    {"id":7,"name":"Smartphone","category":"electronics","price":15000,"stock":6,"rating":4.4},
+    {"id":8,"name":"Camera","category":"electronics","price":22000,"stock":2,"rating":4.2},
 
-    {"id":"prod-b7c4a31d-009","name":"T-Shirt","category":"clothing","price":700.00,"stock":25,"rating":3.8},
-    {"id":"prod-b7c4a31d-010","name":"Jeans","category":"clothing","price":1500.00,"stock":10,"rating":4.1},
-    {"id":"prod-b7c4a31d-011","name":"Jacket","category":"clothing","price":2500.00,"stock":5,"rating":4.4},
-    {"id":"prod-b7c4a31d-012","name":"Sneakers","category":"clothing","price":3000.00,"stock":8,"rating":4.0},
+    {"id":9,"name":"T-shirt","category":"fashion","price":599,"stock":25,"rating":4.0},
+    {"id":10,"name":"Jeans","category":"fashion","price":1499,"stock":18,"rating":4.1},
+    {"id":11,"name":"Shoes","category":"fashion","price":2999,"stock":10,"rating":4.3},
+    {"id":12,"name":"Jacket","category":"fashion","price":3999,"stock":7,"rating":4.2},
 
-    {"id":"prod-b7c4a31d-013","name":"Chair","category":"home","price":3500.00,"stock":6,"rating":4.2},
-    {"id":"prod-b7c4a31d-014","name":"Table","category":"home","price":7000.00,"stock":4,"rating":4.5},
-    {"id":"prod-b7c4a31d-015","name":"Lamp","category":"home","price":1200.00,"stock":10,"rating":3.9},
-    {"id":"prod-b7c4a31d-016","name":"Sofa","category":"home","price":15000.00,"stock":2,"rating":4.6}
+    {"id":13,"name":"Mixer","category":"home","price":3500,"stock":8,"rating":4.0},
+    {"id":14,"name":"Chair","category":"home","price":2500,"stock":6,"rating":3.9},
+    {"id":15,"name":"Table","category":"home","price":5500,"stock":4,"rating":4.1},
+    {"id":16,"name":"Lamp","category":"home","price":1200,"stock":15,"rating":4.2}
   ],
   "aggregations": {
     "books": {
